@@ -1,0 +1,5 @@
+print('She said, "Hello!"')
+print("It's a wonderful day.")
+print("The teacher said, \"Practice makes perfect.\"")
+print("Escape characters like \\n for new line are useful.")
+print("Combining single and double quotes can be tricky, but useful.")
