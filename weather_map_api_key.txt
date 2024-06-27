@@ -1,0 +1,1 @@
+weather map api key: 8ff5fd7bff234edadb01c5141c463a08

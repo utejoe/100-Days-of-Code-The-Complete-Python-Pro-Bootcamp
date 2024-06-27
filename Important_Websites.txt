@@ -1,0 +1,9 @@
+clound run: https://www.pythonanywhere.com/user/utejoe/
+
+weather_map_api_key: https://home.openweathermap.org/api_keys
+
+
+https://api.openweathermap.org/data/2.5/weather?q=Benin,Nigeria&appid=8ff5fd7bff234edadb01c5141c463a08
+
+
+weather_map_api_call: https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}

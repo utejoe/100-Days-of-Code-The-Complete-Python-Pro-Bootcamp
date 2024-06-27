@@ -1,0 +1,4 @@
+BEST PROJECTS TO LAUNCH ON WEBSITE
+1. CHAPTER_257 POMODORO
+2. Chapter chapter_315-day35-start/main.py: create a website where the users will input their city the website already knows the long and lat.. so once they click check weather they see their weather status.
+and they can also register their number to always receive alerts on when it is going to rain. it shouldd be either sms or whatsapp.
