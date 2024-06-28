@@ -4,18 +4,18 @@ from datetime import datetime
 # Step 1: Create a Pixela User
 pixela_endpoint = "https://pixe.la/v1/users"
 user_params = {
-    "token": "YOUR_SECRET_TOKEN",
-    "username": "YOUR_USERNAME",
+    "token": "fehsnafdfieladfheo",
+    "username": "utejoe",
     "agreeTermsOfService": "yes",
     "notMinor": "yes"
 }
 
-response = requests.post(pixela_endpoint, json=user_params)
-print(response.text)
+# response = requests.post(pixela_endpoint, json=user_params)
+# print(response.text)
 
 # Uncomment the following line after the user is created
 # (to avoid recreating the user every time you run the script)
-# response = {"message":"Success.","isSuccess":True}
+# response = {"message":"Success.","isSuccess":True} 
 
 # Step 2: Create a Graph
 graph_endpoint = f"{pixela_endpoint}/{user_params['username']}/graphs"
@@ -41,5 +41,5 @@ pixel_data = {
     "quantity": "5"
 }
 
-response = requests.post(pixel_creation_endpoint, json=pixel_data, headers=headers)
-print(response.text)
+# response = requests.post(pixel_creation_endpoint, json=pixel_data, headers=headers)
+# print(response.text)
