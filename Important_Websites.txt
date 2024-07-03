@@ -7,3 +7,5 @@ https://api.openweathermap.org/data/2.5/weather?q=Benin,Nigeria&appid=8ff5fd7bff
 
 
 weather_map_api_call: https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+
+website for creating and storing json files; https://jsonbin.io/
