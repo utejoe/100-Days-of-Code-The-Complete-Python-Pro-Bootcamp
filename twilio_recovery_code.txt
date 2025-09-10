@@ -1,20 +1,19 @@
 utejoe
 
-recovery code: AN5VD9YD14GD5WMPGV8WJ97V
+recovery code: 
 
-twilio phone number: +18302231771
+twilio phone number: 
 
 
 
 Account Info
-Account SID:  ACfd590fb3162870a9aa0a088346d413c8
-
-Auth Token:  eece21e7790d851852fbd8e9c14d905b
+Account SID:  
+ eece21e7790d851852fbd8e9c14d905b
 
 
 Always store your token securely to protect your account. Learn more
 
-My Twilio phone number: +18302231771
+My Twilio phone number:
 
 
 
@@ -22,11 +21,9 @@ My Twilio phone number: +18302231771
 
 obazeeuyijoe;
 
-recovery code: BSTD4UMTEARUVFVZC28JHEKE
+recovery code:
 
 Account Info
-Account SID: ACde4f7369c9349bf05fa950a14070430a
-
-Auth Token: 20cfee67a1264250e435a75fd7126e90
-
-Twilio phone number: +12059740432
+Account SID: 
+Auth Token: 
+Twilio phone number:
