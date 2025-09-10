@@ -8,7 +8,7 @@ twilio phone number:
 
 Account Info
 Account SID:  
- eece21e7790d851852fbd8e9c14d905b
+ 
 
 
 Always store your token securely to protect your account. Learn more
